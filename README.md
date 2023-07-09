@@ -19,8 +19,8 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 Please see https://arxiv.org/abs/1509.02971 for the main idea of DDPG algorithm.
 
-The Udacity implementation of DDPG can be found at ddpg_agent.py and model.py. MADDPG at maddpg_agent.py is then developed on top of these files. 
+The Udacity implementation of DDPG can be found at ddpg_agent.py and model.py. Multiple DDPG Angents are then developed on top of these files. 
 
-Please see the Tennis notebook for how the MADDPG Agent can be trained.
+Please see the Tennis notebook for how the Agents can be trained.
 
 Also see Report.md
