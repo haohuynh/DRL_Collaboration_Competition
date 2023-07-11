@@ -2,7 +2,7 @@
 
 ## The MADDPG Algorithm
 Please see https://github.com/haohuynh/DRL_Continuous_Control/blob/main/Report.md for the fundamental characteristics of DDPG.
-MADDPG is developed on top of DDPG (Comming Soon!)
+For this project, Collaborative MADDPG simply utilizes the same Actor & Critic of the DDPG.
 
 ## Plot of Rewards
 <img src="result.png"/>
